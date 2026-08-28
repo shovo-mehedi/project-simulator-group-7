@@ -1,1 +1,4 @@
 # Implemented Features
+## FR-01: Implement Customer Account Registration
+## FR-01: Implement Customer Account Registration
+## FR-02: Implement Customer Login
